@@ -10,20 +10,20 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 - [ ] Clearly explains the real-world problem your project attempts to solve in...
   - [ ] Readme
-  - [ ] Notebook
+  - [X] Notebook
   - [ ] Slides
 
 ## Data Understanding
 
 - [ ] Describes the data source in...
   - [ ] Readme
-  - [ ] Notebook
+  - [X] Notebook
   - [ ] Slides
 - [ ] Notebook describes properties of all variables used in project
 
 ## Data Preparation
 
-- [ ] Notebook or `.py` file(s) include code to prepare your raw data for analysis
+- [X] Notebook or `.py` file(s) include code to prepare your raw data for analysis
 
 ## Modeling
 
@@ -53,8 +53,8 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Notebook Content
 
 - [ ] Notebook includes...
-  - [ ] Data understanding
-  - [ ] Data preparation
+  - [X] Data understanding
+  - [X] Data preparation
   - [ ] Modeling
   - [ ] Evaluation
 
@@ -77,6 +77,6 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Sourcing
 
 - [ ] Properly cites...
-  - [ ] Data
+  - [X] Data
   - [ ] Images
   - [ ] Any other content created by others (e.g. text, code)
